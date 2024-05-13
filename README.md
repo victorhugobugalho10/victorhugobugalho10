@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Seja bem vindo ao meu perfil.
+Estou estudando na Alura.
+Compartilho aqui os meus projetos e desenvolvimento.
+
+
